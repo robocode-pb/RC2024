@@ -1,9 +1,5 @@
 # Крутий проект про робокота
-Який бориться з привидами  
-
-[Завантажити для Android](
-https://drive.google.com/file/d/1Y-GQMh5itlp19eruL9IoEnBz_dro_Oit/view?usp=drive_link
-)
+Який бориться з привидами
 
 [Завантажити для Android](Sa14UB11CatPlatform.apk)
 
@@ -17,12 +13,7 @@ https://drive.google.com/file/d/1Y-GQMh5itlp19eruL9IoEnBz_dro_Oit/view?usp=drive
 
 
 ## Редагування проєкту
-[Інструкція встановлення Unity](
-https://drive.google.com/file/d/1CryMBbOOxgdO9dgKWfZJm5fJbdBIkQAF/view?usp=drive_link
-)
-
-[Файл цього проєкту](Sa14UB11CatPlatform.unitypackage)
-
+[Інструкція встановлення Unity](../../../tutorials/InstallUnity.md)
 [Файл цього проєкту](Sa14UB11CatPlatform.unitypackage)
 
 

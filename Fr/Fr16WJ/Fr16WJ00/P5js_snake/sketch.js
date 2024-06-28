@@ -97,19 +97,26 @@ function draw() {
 }
 
 
-function keyPressed(){
-  if(keyCode === DOWN_ARROW){
-    s.moveX = 0;
-    s.moveY = 1;
-  } else if(keyCode === UP_ARROW){
+function keyPressed() {
+  if (keyCode === UP_ARROW) {
     s.moveX = 0;
     s.moveY = -1;
-  } else if(keyCode === LEFT_ARROW){
+  } else if (keyCode === DOWN_ARROW) {
+    s.moveX = 0;
+    s.moveY = 1;
+  } else if (keyCode === LEFT_ARROW) {
     s.moveX = -1;
     s.moveY = 0;
-  } else if(keyCode === RIGHT_ARROW){
+  } else if (keyCode === RIGHT_ARROW) {
     s.moveX = 1;
     s.moveY = 0;
   }
 }
 
+function simulateKeyPress(key) {
+  keyCode = key == 'ArrowUp' ? UP_ARROW :
+  key == 'ArrowDown' ? DOWN_ARROW :
+  key == 'ArrowLeft' ? LEFT_ARROW :
+  key == 'ArrowRight' ? RIGHT_ARROW : 0;
+  keyPressed();
+}

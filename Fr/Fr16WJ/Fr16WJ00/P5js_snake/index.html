@@ -15,5 +15,25 @@
 
   <body>
     <script src="sketch.js"></script>
+
+    <div id="bt">
+      <div>
+        <button class="button" onclick="simulateKeyPress('ArrowUp')">↑</button>
+      </div>
+      <div>
+        <button class="button" onclick="simulateKeyPress('ArrowLeft')">←</button>
+        <button class="button" onclick="simulateKeyPress('ArrowRight')">→</button>
+      </div>
+      <div>
+        <button class="button" onclick="simulateKeyPress('ArrowDown')">↓</button>
+      </div>
+    </div>
+    <script defer>
+      function pressKey(key) {
+      var event = new KeyboardEvent('keydown', { 'key': key });
+      document.dispatchEvent(event);
+    }
+    </script>
+    
   </body>
 </html>

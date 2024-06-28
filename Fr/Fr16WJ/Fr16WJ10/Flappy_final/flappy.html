@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My First Site</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="flappy.css">
+	<script src="script.js" defer></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script></head>
+<body>
+	<div class="description">
+		<p>For play use ARROW UP</p>
+	</div>
+	<div class="wrapper">
+		<p id="score">SCORE: </p>	
+		<p id="best_score">BEST SCORE: </p>
+	</div>
+	<br>
+	<div class="canvas">
+		<canvas id="canvas" width="256" height="512"></canvas>
+	</div>
+	<br>
+	<div class="control">
+		<input type="button" onclick="game_pause()" value="PAUSE" class="btn">
+		<input type="button" onclick="light()" value="L" class="btnL">
+		<input type="button" onclick="dark()" value="D" class="btnD">
+	</div>
+
+	<input type="button" value="Click me1" class="cm">
+	<input type="button" value="Click me2" class="cm">
+	<input type="button" value="Click me3" class="cm">
+	<input type="button" value="Click me4" class="cm">
+	<input type="button" value="Click me5" class="cm">
+
+</body>
+</html>

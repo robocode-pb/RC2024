@@ -1,8 +1,4 @@
-# RC2023
-
 Проєкти ROBOCODE за 2023-2024 рік
-
-Структура репозиторію:
 
 - Friday
   - Web Junior
@@ -21,9 +17,9 @@
   - Construct
     <!-- - [Sa16C03](Sa/Sa16C/Sa16C03) -->
     - [Sa16C04](Sa/Sa16C/Sa16C04)
-    <!-- - [Sa16C09](Sa/Sa16C/Sa16C09)
-    - [Sa16C11](Sa/Sa16C/Sa16C11)
-    - [Sa16C12](Sa/Sa16C/Sa16C12) -->
+    <!-- - [Sa16C09](Sa/Sa16C/Sa16C09) -->
+    <!-- - [Sa16C11](Sa/Sa16C/Sa16C11) -->
+    <!-- - [Sa16C12](Sa/Sa16C/Sa16C12) -->
 - Saturday
   - Su10AK
   - Su12KP

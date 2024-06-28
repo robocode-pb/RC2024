@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <link rel="manifest" href="manifest.json"> -->
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+    <title>Simple Note</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="https://raw.githack.com/aterrien/jQuery-Knob/master/dist/jquery.knob.min.js"></script>
+
+    <link rel="stylesheet" href="alertify/alertify.core.css" />
+    <link rel="stylesheet" href="alertify/alertify.default.css" />
+    <script src="alertify/alertify.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <button id="addNoteButton">Додати нотатку</button>
+        <button id="saveButton">Save</button>
+        <div id="notesContainer"></div>
+    </div>
+
+    <!-- Підключення FontAwesome для використання текстових іконок -->
+    <script
+        src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"
+        integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc"
+        crossorigin="anonymous">
+    </script>
+
+    <!-- Підключення локального скрипта -->
+    <script src="script.js"></script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', function() {
+            navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
+              console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            }, function(err) {
+              console.log('ServiceWorker registration failed: ', err);
+            });
+          });
+        }
+    </script>
+
+</body>
+</html>

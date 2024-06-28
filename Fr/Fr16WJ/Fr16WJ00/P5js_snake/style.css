@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(4, 4, 56);
+  
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+canvas {
+  display: block;
+  
+}

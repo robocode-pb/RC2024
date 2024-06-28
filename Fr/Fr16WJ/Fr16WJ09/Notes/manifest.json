@@ -1,0 +1,17 @@
+{
+    "name": "Нотатник",
+    "short_name": "Нотатник",
+    "description": "Веб-додаток для створення та збереження нотаток",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "image/icons-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

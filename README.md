@@ -6,9 +6,9 @@
 
 - Friday
   - Web Junior
-    - [Fr16WJ00](Fr/Fr16WJ/Fr16WJ00/README.md)
-    - [Fr16WJ09](Fr/Fr16WJ/Fr16WJ09/README.md)
-    - [Fr16WJ10](Fr/Fr16WJ/Fr16WJ10/README.md)
+    - [Fr16WJ00](Fr/Fr16WJ/Fr16WJ00)
+    - [Fr16WJ09](Fr/Fr16WJ/Fr16WJ09)
+    - [Fr16WJ10](Fr/Fr16WJ/Fr16WJ10)
 - Saturday
   - Sa10AK
   - Sa12ME

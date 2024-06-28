@@ -3,6 +3,11 @@
 ## [Футуристичний годинник](ClockFuture/index.html)
 ![chrome_XorPiDd1K3](https://github.com/robocode-pb/RC2024/assets/172953581/e78bf12c-2de1-49a1-a153-ca4064f1af59)
 
+Використовували:
+- js
+- jQuery
+- Knub
+
 ## [Flappy bird ](FlappyBird/flappy.html)
 ![chrome_1JQ3K2jjVD](https://github.com/robocode-pb/RC2024/assets/172953581/db493048-4809-4d64-aaff-be88442ebef2)
 

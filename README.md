@@ -29,3 +29,4 @@
 - Example:
   - [Arduino Kids](all/AK)
   - [Construct 3](all/C)
+  - [Middle Embedded](all/ME)

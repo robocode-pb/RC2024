@@ -19,7 +19,7 @@
     - [Sa16C04](Sa/Sa16C/Sa16C04)
     <!-- - [Sa16C09](Sa/Sa16C/Sa16C09) -->
     - [Sa16C11](Sa/Sa16C/Sa16C11)
-    <!-- - [Sa16C12](Sa/Sa16C/Sa16C12) -->
+    - [Sa16C12](Sa/Sa16C/Sa16C12)
 - Saturday
   - Su10AK
   - Su12KP

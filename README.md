@@ -25,6 +25,13 @@
   - Su12KP
   - Su14AK
   - Su16UB
+    <!-- - [Su16UB00](Su/Su16UB/Su16UB00) -->
+    <!-- - [Su16UB01](Su/Su16UB/Su16UB01) -->
+    - [Su16UB02](Su/Su16UB/Su16UB02)
+    <!-- - [Su16UB05](Su/Su16UB/Su16UB05) -->
+    <!-- - [Su16UB10](Su/Su16UB/Su16UB10) -->
+    <!-- - [Su16UB11](Su/Su16UB/Su16UB11) -->
+    <!-- - [Su16UB12](Su/Su16UB/Su16UB12) -->
 
 - Example:
   - [Arduino Kids](all/AK)

@@ -25,4 +25,7 @@
   - Su12KP
   - Su14AK
   - Su16UB
-- [Arduino Kids](all/AK)
+
+- Example:
+  - [Arduino Kids](all/AK)
+  - [Construct 3](all/C)

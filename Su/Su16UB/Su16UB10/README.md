@@ -22,7 +22,7 @@ Joystick availible on free play!
 
 ## lil kitten just for batteries
 
-### [Завантажити на Android]
+### [Завантажити на Windows](i_exe.rar)
 
 ### [Завантажити файл проєкту Unity]
 [sequal to wokwi and tinkercad projects]

@@ -38,3 +38,4 @@
   - [Construct 3](all/C)
   - [Middle Embedded](all/ME)
   - [Unity Begginner](all/UB)
+  - [Kids Pro](all/KP)

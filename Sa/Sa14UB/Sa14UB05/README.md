@@ -4,6 +4,8 @@
 
 ![Знімок екрана 2024-06-22 153104](https://github.com/robocode-pb/RC2023/assets/172953581/0253cabd-05a6-44c9-95fe-dba07b6d3dd4)
 
+Ціль гри: не реєструватися та дати розробнику грошів на життя
+
 ![image](https://github.com/robocode-pb/RC2024/assets/172953581/8ae8f9b8-e16b-4f2c-bbd9-b638b5f69652)
 
 ## [Файл проєкту Юніті](Sa14UB05CatPlatformer.unitypackage)

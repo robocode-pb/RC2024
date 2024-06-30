@@ -20,4 +20,6 @@ Joystick availible on free play!
 
 ### [Завантажити на Windows](i_exe.rar)
 
+![image](https://github.com/robocode-pb/RC2024/assets/172953581/01d6e15c-e092-463f-936d-d91404ca15b4)
+
 [sequal to wokwi and tinkercad projects]

@@ -1,4 +1,4 @@
-# playkitten's Unity project
+# playkitten's Unity projects (2)
 
 ## Cyborg Cat
 
@@ -15,10 +15,6 @@ Joystick availible on free play!
 ![image](https://github.com/robocode-pb/RC2023/assets/172953581/52384638-8b0b-40b6-85c4-126638714644)
 
 [Windows and Androind Supprot ( maybe Mac too lol)]
-
-## Cat Shooter
-
-#### Footage Lost :( 
 
 ## lil kitten just for batteries
 

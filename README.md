@@ -46,5 +46,5 @@ Camp:
   [Summer Roblox](Camp%20/CampSummerRoblox)
   <!-- - - - [Autumn Smart Greenhouse](Camp/CampAutumnSmartGreenhouse) -->
 
-## [Посилання на репозиторій з фінальними прожктами](https://github.com/robocode-pb/RC2024)
+## [Посилання на репозиторій з фінальними проєктами](https://github.com/robocode-pb/RC2024)
 ## [Посилання на репозиторій з усіми проєктами](https://github.com/robocode-pb/archive2024)

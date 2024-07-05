@@ -43,5 +43,5 @@
   - [Kids Pro](all/KP)
  
 Camp:
-  - [Summer Roblox}(Camp/CampSummerRoblox)
-  - [Autumn Smart Greenhouse}(Camp/CampAutumnSmartGreenhouse)
+  - [Summer Roblox](Camp/CampSummerRoblox)
+  - [Autumn Smart Greenhouse](Camp/CampAutumnSmartGreenhouse)

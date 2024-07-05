@@ -6,8 +6,8 @@
     - [Fr16WJ09](Fr/Fr16WJ/Fr16WJ09)
     - [Fr16WJ10](Fr/Fr16WJ/Fr16WJ10)
 - Sunday
-  - Sa10AK
-  - Sa12ME
+  <!-- - - Sa10AK -->
+  - Middle Embedded
     - [Sa12ME09](Sa/Sa12ME/Sa12ME09)
     - [Sa12ME10](Sa/Sa12ME/Sa12ME10) 
   - Unity Beginer
@@ -23,10 +23,10 @@
     - [Sa16C11](Sa/Sa16C/Sa16C11)
     - [Sa16C12](Sa/Sa16C/Sa16C12)
 - Saturday
-  - Su10AK
-  - Su12KP
-  - Su14AK
-  - Su16UB
+  <!-- - - Su10AK -->
+  <!-- - - Su12KP -->
+  <!-- - - Su14AK -->
+  - Unity Beginer
     <!-- - [Su16UB00](Su/Su16UB/Su16UB00) -->
     - [Su16UB01](Su/Su16UB/Su16UB01)
     - [Su16UB02](Su/Su16UB/Su16UB02)
@@ -39,9 +39,12 @@
   - [Arduino Kids](all/AK)
   - [Construct 3](all/C)
   - [Middle Embedded](all/ME)
-  - [Unity Begginner](all/UB)
+  <!-- - - [Unity Begginner](all/UB) -->
   - [Kids Pro](all/KP)
  
 Camp:
-  - [Summer Roblox](Camp%20/CampSummerRoblox)
-  - [Autumn Smart Greenhouse](Camp/CampAutumnSmartGreenhouse)
+  [Summer Roblox](Camp%20/CampSummerRoblox)
+  <!-- - - - [Autumn Smart Greenhouse](Camp/CampAutumnSmartGreenhouse) -->
+
+## [Посилання на репозиторій з фінальними прожктами](https://github.com/robocode-pb/RC2024)
+## [Посилання на репозиторій з усіми проєктами](https://github.com/robocode-pb/archive2024)

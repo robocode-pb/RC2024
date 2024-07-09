@@ -1,5 +1,9 @@
 # Проєкти літнього табору ROBOCODE Roblox
 
+## [Загальний ХАБ](https://www.roblox.com/games/18410045917/)
+
+![image](hub.gif}
+
 - [Level 1 Ruslan Nexin](https://www.roblox.com/games/18343923280/Camp2024-Level-1)
   
 ![image](https://github.com/robocode-pb/RC2024/assets/172953581/d559de13-18af-4c63-8f91-5f033f425847)

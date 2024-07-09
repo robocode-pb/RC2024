@@ -2,7 +2,7 @@
 
 ## [Загальний ХАБ](https://www.roblox.com/games/18410045917/)
 
-![image](hub.gif}
+![image](hub.gif)
 
 - [Level 1 Ruslan Nexin](https://www.roblox.com/games/18343923280/Camp2024-Level-1)
   

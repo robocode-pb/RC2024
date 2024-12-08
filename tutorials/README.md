@@ -1,2 +1,4 @@
 - [Як зайти в App Inventor](AppInventor.md)
 - [Як завантажити Unity](InstallUnity.md)
+- [Як завантажити Unity](Scratch.md)
+- [Як завантажити Unity](ScratchJR.md)

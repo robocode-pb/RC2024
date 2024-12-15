@@ -2,3 +2,4 @@
 - [Як завантажити Unity](InstallUnity.md)
 - [Як завантажити Scratch](Scratch.md)
 - [Як завантажити ScratchJR](ScratchJR.md)
+- [Як завантажити ScratchJR](Construct.md)

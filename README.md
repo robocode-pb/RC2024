@@ -1,5 +1,7 @@
 Проєкти ROBOCODE за 2023-2024 рік
 
+ [Інструкції](tutorials)
+ 
 - Friday
   - Web Junior
     - [Fr16WJ00](Fr/Fr16WJ/Fr16WJ00)

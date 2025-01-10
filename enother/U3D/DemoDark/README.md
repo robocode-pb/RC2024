@@ -7,8 +7,4 @@
 
 [Асет 2 make-your-fantasy-game-lite](https://assetstore.unity.com/packages/3d/environments/fantasy/make-your-fantasy-game-lite-8312)
 
-[Протестувати онайн (клавіатура+миша)]()
-
-[Імпортувати як UnityPackage]()
-
-[Завантажити проєкт Zip]()
+[Імпортувати як UnityPackage](https://drive.google.com/file/d/1Ocan9WgyELbHgO0APOB6jmYCuqkCC9JS/view?usp=sharing)
